@@ -6,7 +6,7 @@ You can find the version of the course I took [here.](https://github.com/isfuku/
 #### 1. [Probability Theory](https://github.com/isfuku/BDA-exercises/blob/master/ex1.ipynb)
 #### 2. [Likelihoo;, Prior; Posterior; Binomial Model](https://github.com/isfuku/BDA-exercises/blob/master/ex2.ipynb)
 #### 3. [Multiparameter models; Joint, Marginal and Coditional Distributions](https://github.com/isfuku/BDA-exercises/blob/master/ex3.ipynb)
-#### 4. [Markov Chain Monte Carlo (MCMC)](https://github.com/isfuku/BDA-exercises/blob/master/ex4.ipynb)
+#### 4. [Bioassay Model and Importance Sampling](https://github.com/isfuku/BDA-exercises/blob/master/ex4.ipynb)
 #### 5. [MCMC diagnostics](https://github.com/isfuku/BDA-exercises/blob/master/ex5.ipynb)
 
 ## About me
